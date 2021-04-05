@@ -1,0 +1,15 @@
+.lcc-header-container {
+    min-height: 80vh;
+}
+
+.lcc-header {
+    background-image: url("./media/header.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.blurred {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
