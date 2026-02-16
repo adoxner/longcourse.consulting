@@ -33,3 +33,7 @@ This is a static website for Long Course Consulting, a boutique consultancy for 
 - Bootstrap is loaded from CDN, no local dependencies
 - Contact links use `mailto:adam@longcourse.consulting` throughout
 - Responsive design handled by Bootstrap's grid system
+
+## Commit Style
+
+Use Conventional Commit style for all commits and PR titles (e.g. `feat:`, `fix:`, `chore:`, `docs:`, `refactor:`, etc.).
